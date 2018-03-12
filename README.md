@@ -1,5 +1,5 @@
 # ct-countdown
-Countdown to the start of the Colorado Trail.
+Countdown to the Colorado Trail.
 
 Hilary and I are thru-hiking the Colorado Trail! 
 
