@@ -2,3 +2,5 @@
 Countdown to the start of the Colorado Trail.
 
 Hello there! My girlfriend and I are going on a thru hike! This site will help chronicle the planning we're doing for it and the experiences we'll have on the trail.
+
+Plans include a javascript counter for days left until we leave, a drawing script to overlay the map as you scroll through timestamped posts, and lots of photos.
