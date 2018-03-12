@@ -2,4 +2,4 @@
 
 var timeKeep = "Time Left";
 
-document.getElementById('timeKeep').innerHTML = timeKeep;
+document.getElementById('time-keep').innerHTML = timeKeep;
