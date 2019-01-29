@@ -1,0 +1,49 @@
+body {
+	font-family: helvetica;
+	font-size: 1em;
+	color: #000;
+}
+
+#ct-timer, #ct-hours {
+	position: absolute;
+	left: 1.2em;
+	top: 0;
+	font-size: 3em;
+	font-weight: bold;
+	letter-spacing: .1em;
+}
+#ct-map {
+	position: relative;
+	width: 50%;
+	margin: 100px auto;
+	/*background-image:url(./assets/images/colorado_map.png);*/
+}
+@media (max-width: 1500px) {
+	#ct-map {
+		position: relative;
+		width: 75%;
+	}
+	#ct-timer {
+		font-size: 2.5em;
+		left: 5%;
+	}
+}
+@media (max-width: 1000px) {
+	#ct-timer {
+		font-size: 2em;
+	}
+}
+@media (max-width: 640px) {
+	#ct-map {
+		position: relative;
+		width: 75%;
+	}
+	#ct-timer {
+		font-size: 1.5em;
+	}
+}
+
+ul {
+	list-style: none;
+}
+
